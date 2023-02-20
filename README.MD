@@ -29,7 +29,7 @@ https://micrometer.io/docs/observation
 
 
 
-#oficial document
+#ofitial document
 
 https://docs.spring.io/spring-boot/docs/3.0.0/reference/html/actuator.html#actuator.enabling
 
